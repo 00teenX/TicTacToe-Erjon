@@ -24,6 +24,7 @@ Ein Tic Tac Toe Spiel für iOS, iPadOS und macOS.
   <img src="Screenshots/screenshot_gameplay.png" width="200" alt="Gameplay 1" />
   <img src="Screenshots/screenshot_gameplay1.png" width="200" alt="Gameplay 2" />
   <img src="Screenshots/screenshot_gameplay2.png" width="200" alt="Gameplay 3" />
+  <img src="Screenshots/screenshot_gameplay3.png" width="200" alt="Gameplay 4" />
 </p>
 
 ## Projektübersicht
