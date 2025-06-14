@@ -1,4 +1,4 @@
-# TicTacToe-Erjon
+# TicTacToe
 
 Ein Tic Tac Toe Spiel für iOS, iPadOS und macOS.
 
